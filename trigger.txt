@@ -1,1 +1,1 @@
-grafana/grafana:7.3.4  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:7.3.4
+directxman12/k8s-prometheus-adapter:v0.8.2  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:v0.8.2
