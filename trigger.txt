@@ -1,1 +1,1 @@
-node:14.9.0  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:14.9.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.44.1  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:v0.44.1
