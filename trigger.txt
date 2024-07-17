@@ -1,1 +1,1 @@
-quay.io/prometheus-operator/prometheus-config-reloader:v0.44.1  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:v0.44.1
+buger/goreplay:1.3.3  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:1.3.3
