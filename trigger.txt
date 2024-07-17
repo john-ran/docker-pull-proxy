@@ -1,1 +1,1 @@
-edaubert/goreplay:1.3.3  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:1.3.3
+buger/goreplay:2.0.0-rc2  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:2.0.0-rc2
