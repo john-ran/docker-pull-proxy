@@ -1,1 +1,1 @@
-buger/goreplay:latest  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:goreplay-latest
+jonioliveira/goreplay:2.0.0-rc2  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:2.0.0-rc2
