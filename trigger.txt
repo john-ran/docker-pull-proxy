@@ -1,1 +1,1 @@
-seatable/seatable-developer:4.4.1  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:4.4.1
+maven:3.6.2-jdk-14  registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:3.6.2-jdk-14
