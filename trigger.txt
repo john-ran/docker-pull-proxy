@@ -1,1 +1,1 @@
-sonarqube:9.9.3-community registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:sonarqube-9.9.3-community
+sonatype/nexus3:3.70.2 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:nexus3
