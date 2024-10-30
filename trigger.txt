@@ -1,1 +1,1 @@
-rabbitmq:management registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:rabbitmq-management
+delron/fastdfs:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:fastdfs-latest
