@@ -1,1 +1,1 @@
-delron/fastdfs:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:fastdfs-latest
+atlassian/bitbucket-server:8.2.1 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:bitbucket-server-8.2.1
