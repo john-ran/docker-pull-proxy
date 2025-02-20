@@ -1,1 +1,1 @@
-mysql:5.7 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:mysql-5.7
+releases-docker.jfrog.io/jfrog/artifactory-oss:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:jfrog
