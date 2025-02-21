@@ -1,1 +1,1 @@
-releases-docker.jfrog.io/jfrog/artifactory-oss:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:jfrog
+python:3.8.2 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:python3.8
