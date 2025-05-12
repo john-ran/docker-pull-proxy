@@ -1,1 +1,1 @@
-python:3.9.5 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:python3.9.5
+postgres:13 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:postgres13
