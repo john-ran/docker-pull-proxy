@@ -1,1 +1,1 @@
-postgres:13 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:postgres13
+sonarqube:community registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:sonarqube-community
