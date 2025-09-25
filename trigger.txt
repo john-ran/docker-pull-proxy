@@ -1,1 +1,1 @@
-node:22.15.0 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:node-22.15.0
+sonarqube:7.8-community registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:sonarqube-7.8-community
