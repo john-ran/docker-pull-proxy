@@ -1,1 +1,1 @@
-node:19 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:node19
+dannicool/docker-wechatbot-webhook registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:docker-wechatbot-webhook
