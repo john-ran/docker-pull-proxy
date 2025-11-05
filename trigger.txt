@@ -1,1 +1,1 @@
-dannicool/docker-wechatbot-webhook registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:docker-wechatbot-webhook
+docker.io/library/node:20-slim registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:node-20-slim
