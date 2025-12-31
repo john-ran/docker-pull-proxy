@@ -1,1 +1,1 @@
-redis:7-alpine registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:redis-7-alpine
+1panel/maxkb registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:maxkb
