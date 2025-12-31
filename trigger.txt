@@ -1,1 +1,1 @@
-ghcr.io/1panel-dev/maxkb-base:python3.11-pg17.6 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:python3.11-pg17.6
+redis:7-alpine registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:redis-7-alpine
