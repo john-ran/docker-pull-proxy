@@ -1,1 +1,1 @@
-flashcatcloud/nightingale:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:nightingale-20260107
+flashcatcloud/categraf:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:categraf-20260107
