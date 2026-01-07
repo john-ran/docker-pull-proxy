@@ -1,1 +1,1 @@
-redis:6.2 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:redis-6.2
+mysql:8 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:mysql-8
