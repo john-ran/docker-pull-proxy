@@ -1,1 +1,1 @@
-mysql:8 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:mysql-8
+prom/prometheus:v2.55.1 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:prom/prometheus-v2.55.1
