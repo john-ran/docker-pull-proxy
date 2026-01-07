@@ -1,1 +1,1 @@
-1panel/maxkb registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:maxkb
+redis:6.2 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:redis-6.2
