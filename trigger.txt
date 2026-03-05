@@ -1,1 +1,1 @@
-mageai/mageai registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:mageai-20260126
+openclaw/openclaw:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:openclaw-20260305
