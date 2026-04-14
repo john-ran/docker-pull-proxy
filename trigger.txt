@@ -1,1 +1,1 @@
-openclaw/openclaw:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:openclaw-20260305
+python:3.11-slim registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:python-3.11-slim
