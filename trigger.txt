@@ -1,1 +1,1 @@
-prefecthq/prefect:3-python3.11 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:prefect-3-python3.11
+node:18.20.8 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:node-18.20.8
