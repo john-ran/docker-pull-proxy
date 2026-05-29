@@ -1,1 +1,1 @@
-node:18.20.8 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:node-18.20.8
+nacos/nacos-server:v2.2.3 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:nacos-server-v2.2.3
