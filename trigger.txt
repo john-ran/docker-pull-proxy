@@ -1,1 +1,1 @@
-hashicorp/vault:2.0.2 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:vault-2.0.2
+nginx:1.31.1 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:nginx-1.31.1
