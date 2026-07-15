@@ -1,1 +1,1 @@
-victoriametrics/victoria-metrics:v1.79.12 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:victoria-metrics-v1.79.12
+flashcatcloud/nightingale:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:nightingale
