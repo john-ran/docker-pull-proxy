@@ -1,1 +1,1 @@
-flashcatcloud/categraf:latest registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:categraf
+centos7.6.1810 registry.cn-hangzhou.aliyuncs.com/h3c-payby/k8s:centos7.6
